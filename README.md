@@ -23,36 +23,6 @@
 
 <img src= "img/timeLine.png" width="800">
 
-
-
-
-# 🙋🏻‍♂️ 팀 소개
-
----
-
-|      | <img src= "img/misoImage.png" width="50" height="50"> | <img src= "img/doojooImage.png" width="50" height="50"> | <img src= "img/moveukImage.png" width="50" height="50"> | <img src= "img/jiyoungImage.png" width="50" height="50"> |
-|------|-------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
-| 이름   | 박미소                                                   | 박병률                                                     | 이동욱                                                     | 박지영                                                      |
-| GitHub | [miso1105](https://github.com/miso1105)               | [doojoo9999](https://github.com/doojoo9999)             | [moveuk](https://github.com/moveuk)                     | [jiyeong2023](https://github.com/jiyeong2023)            |
-| Blog   | [@miso_](https://velog.io/@miso_)                     | [@parkbro](https://velog.io/@parkbro)                   | [dul2](https://dul2.tistory.com/)                       | [liveme-2023](https://liveme-2023.tistory.com/)          |
-
-
-
-# 🏝️ 우리 팀은요
-
----
-
-## 🤝 팀 핵심가치
-<img src= "img/teamCore.png" width="700">
-
-## 😸 팀 문화
-<img src= "img/teamCulture.png" width="700">
-
-
-
-<br>
-
-
 # 🐋 Tech Stack
 
 ---
