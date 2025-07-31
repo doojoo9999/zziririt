@@ -52,10 +52,3 @@
 
 ---
 <img src= "img/ciCd.png" width="800">
-
-
-# 💯 Test Code
-
----
-
-<img src= "img/testCode.png" width="800">
